@@ -6,4 +6,7 @@ Från pokerkvällar och klättring för nybörjare, till ett color-run där du k
 
 Nämnden siktar framöver på att bestå av ca 30 medlemmar. För att alla ska få möjligheten att utvecklas på olika fronter har medlemmarna inga fasta ansvarsområden inom nämnden. Teamet bestämmer här tillsammans hur man tar sig an de olika eventen. Här kan en helt ny medlem vara ledande inför ett visst event som denne har extra stort intresse medan det i andra fall är fördelaktigt att ha tidigare erfarenhet.
 
+### Ordförande
+
+__Elisabeth Hvalgren__ I-22 idrott@iare.nu
 <img src={require("/static/img/Elisabeth.jpg").default} width="230"/>
